@@ -33,21 +33,17 @@
 
 ###
 
-<h2 align="center">⏳ Current focus</h2>
+<h3 align="center">⏳ Current focus</h3>
 
 ###
 
-<h3 align="left">•🏛️Renaissance philosophical study.<br>•📜Study of political history.<br>•🗼Study of French grammar and spelling.</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/GustavHeinrich/GustavHeinrich/output/snake.svg" alt="Snake animation" />
+<p align="left">•🏛️Renaissance philosophical study.<br>•📜Study of political history.<br>•🗼Study of French grammar and spelling.</p>
 
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/zord;-;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zord;-;&count=2" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zord;-;&count=2&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
