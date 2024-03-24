@@ -2,38 +2,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://mail.proton.me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="discordapp.com/users /761112838412304395" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-</div>
-
-###
-
-<h3 align="center">⏳ Current focus</h3>
+<h4 align="center">⏳ Current focus</h4>
 
 ###
 
@@ -41,10 +14,33 @@
 
 ###
 
+<h4 align="center">👋 Welcome to my profile!</h4>
+
+###
+
+<p align="left">I'm a boy who likes a bit of everything, currently completing my degree. When I have free time, I try to have fun playing games or, more often than not, practicing hobbies such as translation, design and coding.<br><br>•📖 I like programming, languages, history and philosophy.<br>•📜 I'm currently trying to focus on contemporary philosophy and Enlightenment history.</p>
+
+###
+
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="left">
-  <a href="https://open.spotify.com/user/zord;-;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zord;-;&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavHeinrich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavHeinrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
