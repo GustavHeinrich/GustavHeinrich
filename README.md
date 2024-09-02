@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://github.com/GustavHeinrich/Gustav-s-AoH-Modding/assets/164238337/c9b5c879-3ae0-43e7-a868-50e51f4f8c61"  />
 
 ###
 
